@@ -1,2 +1,93 @@
-﻿
-[{"vacancy": "Middle Backend-разработчик", "url": "https://adsrv.hh.ru/click?b=739731&c=5&place=36&meta=UhOX3-2V3BctmFkKjomJ1dYkndazQibuuCqZeq58B1-Lxz8yRg1wLIcFbdAraHD_JBuGM5stkfX091x6Go3VCDQ4IchEActPFcouDuF1uzQg0HNRM3IWFZS7qCtpMb6fUpeQIohnPGNtDuYsIISTfIY2ry0GUpupHFpq-KVUxQpINWJkxscfFhGAUNBrmPPM0MxW7oCuRDWMt65B8aYEF4Tb7yFtoyaxIYMfngUzBbZMmW3jestFpY1f3Frs11TmfcVDUW0oZcgGCOdFptAaKTgQzL_BI6tqne1bMSF5bnbDKl2kCcNI3HB4ez_2V_wn5PNz0PjdYZeh5vacYXtNs0uOMH-5xQYHRfX_HLc2e72hSSgMUWxfxei0mOQkN5T3UTFXPx9_XuBO1gQ3OS9JcQKax1d2YxZfgzKfUQUPwjgKM09ZVEstUZSGs0vJ59KV8MDzAUAxa3z3XBBqHsZIhQGoxPxr3DWMJNxyM-tOmaklGF7NYhn88sPxycvkir2_4lv1_NvzasRlYeWpQq_L9w%3D%3D&clickType=link_to_vacancy", "company": "ООО Софтвэй++", "salary": "Зарплата не указана", "sity": "Санкт-Петербург"}, {"vacancy": "Middle Python-разработчик для GPT/LLM проектов", "url": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Университет искусственного интеллекта", "salary": "до 150 000 ₽ на руки", "sity": "Москва"}, {"vacancy": "Младший программист Python/junior programmer Python", "url": "https://spb.hh.ru/vacancy/89545694?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Miss X", "salary": "от 50 000 ₽ до вычета налогов", "sity": "Москва, улица Охотный Ряд"}, {"vacancy": "Junoir backend developer (Python)", "url": "https://spb.hh.ru/vacancy/90565057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Emphasoft", "salary": "до 60 000 ₽ до вычета налогов", "sity": "Санкт-Петербург"}, {"vacancy": "Python-разработчик (Управление данными)", "url": "https://spb.hh.ru/vacancy/90657302?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "АО ДОМ.РФ ИТ", "salary": "Зарплата не указана", "sity": "Москва"}, {"vacancy": "Junior Java developer", "url": "https://spb.hh.ru/vacancy/90567368?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "FIT / Finch Industrial Tools", "salary": "до 110 000 ₽ на руки", "sity": "Санкт-Петербург, Лахтинский проспект, 85к3"}, {"vacancy": "Стажер Python Fullstack", "url": "https://spb.hh.ru/vacancy/90286270?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Caltat", "salary": "Зарплата не указана", "sity": "Москва, Савёловская, Савёловская, Савёловская, улица Расковой, 34с14"}, {"vacancy": "Junior/Middle Python разработчик (in-house)", "url": "https://spb.hh.ru/vacancy/90550206?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "ООО Тх Решения", "salary": "Зарплата не указана", "sity": "Москва, Проспект Вернадского, Ленинский проспект, 96"}, {"vacancy": "QA Engineer", "url": "https://spb.hh.ru/vacancy/90576737?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Zentist", "salary": "от 2 000 до 3 500 $ на руки", "sity": "Москва"}, {"vacancy": "Junior Backend разработчик (в международный проект)", "url": "https://spb.hh.ru/vacancy/89884680?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Reactive Phone", "salary": "от 110 000 ₽ на руки", "sity": "Санкт-Петербург"}, {"vacancy": "Python-разработчик / Junior Python Developer", "url": "https://spb.hh.ru/vacancy/90204534?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Comexp", "salary": "от 100 000 до 150 000 ₽ на руки", "sity": "Москва"}, {"vacancy": "Junior-разработчик", "url": "https://spb.hh.ru/vacancy/90002931?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "ООО Лидгид", "salary": "Зарплата не указана", "sity": "Санкт-Петербург"}, {"vacancy": "Backend Python Django Developer", "url": "https://spb.hh.ru/vacancy/90578989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python", "company": "Fatality", "salary": "от 40 000 до 90 000 ₽ на руки", "sity": "Москва, Библиотека им.Ленина, Китай-город, Новокузнецкая, Площадь Революции"}]
+﻿[
+    {
+        "vacancy": "Middle Backend-разработчик",
+        "url": "https://adsrv.hh.ru/click?b=739731&c=5&place=36&meta=-6LfNomVrHmRJEduWDeccNPNH9u4SBsFtllDQLJZkbB0GPum7MqgroGDwzZGqd0nKoQSkuZz_PvEQzqfcbwu8g_sqXCDHK9waFttdyXpNy548GNIYU-D8oKBesqcMTTLTnBaRqIzHe_nYeBQSsLNne5WPFJNzVtGw89_zMkJfy9tB0_R1ZkzPvxZUtdtnes8IGxyApEv0AicDT_B4se-dHAcH2UnAJbKArjfVpQL__a7H0Qb2dTSMwZGf_RcAR-yBxEu3VCwvNh4mgrNMyB9iNqk9t4KIzHXCjRuHHqgVsWrbGSSBgy3x5PflZZiIbAXykJMn5JAdIDdU0ek_3w3Hiy5joOqs484seQHaeXkE1Lqn32VEo8jWbDPp0cA13LaVffQMG8A6JlpjAnziJxrsKAN_gW8HSrH9UAQJU_0Qo4ijliwftshM5s_cydioWB5RYptLYIg49kGEgpCwjc2pqnGS0wETI65ktK8vfyo4mbjK14pgcm01picaz07huwhJsZXFZAl5-rKTMa5Lq32sQ%3D%3D&clickType=link_to_vacancy",
+        "company": "ООО Софтвэй++",
+        "salary": "Зарплата не указана",
+        "sity": "Санкт-Петербург"
+    },
+    {
+        "vacancy": "Middle Python-разработчик для GPT/LLM проектов",
+        "url": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Университет искусственного интеллекта",
+        "salary": "до 150 000 ₽ на руки",
+        "sity": "Москва"
+    },
+    {
+        "vacancy": "Младший программист Python/junior programmer Python",
+        "url": "https://spb.hh.ru/vacancy/89545694?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Miss X",
+        "salary": "от 50 000 ₽ до вычета налогов",
+        "sity": "Москва, улица Охотный Ряд"
+    },
+    {
+        "vacancy": "Junoir backend developer (Python)",
+        "url": "https://spb.hh.ru/vacancy/90565057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Emphasoft",
+        "salary": "до 60 000 ₽ до вычета налогов",
+        "sity": "Санкт-Петербург"
+    },
+    {
+        "vacancy": "Python-разработчик (Управление данными)",
+        "url": "https://spb.hh.ru/vacancy/90657302?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "АО ДОМ.РФ ИТ",
+        "salary": "Зарплата не указана",
+        "sity": "Москва"
+    },
+    {
+        "vacancy": "Junior Java developer",
+        "url": "https://spb.hh.ru/vacancy/90567368?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "FIT / Finch Industrial Tools",
+        "salary": "до 110 000 ₽ на руки",
+        "sity": "Санкт-Петербург, Лахтинский проспект, 85к3"
+    },
+    {
+        "vacancy": "Стажер Python Fullstack",
+        "url": "https://spb.hh.ru/vacancy/90286270?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Caltat",
+        "salary": "Зарплата не указана",
+        "sity": "Москва, Савёловская, Савёловская, Савёловская, улица Расковой, 34с14"
+    },
+    {
+        "vacancy": "Junior/Middle Python разработчик (in-house)",
+        "url": "https://spb.hh.ru/vacancy/90550206?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "ООО Тх Решения",
+        "salary": "Зарплата не указана",
+        "sity": "Москва, Проспект Вернадского, Ленинский проспект, 96"
+    },
+    {
+        "vacancy": "QA Engineer",
+        "url": "https://spb.hh.ru/vacancy/90576737?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Zentist",
+        "salary": "от 2 000 до 3 500 $ на руки",
+        "sity": "Москва"
+    },
+    {
+        "vacancy": "Junior Backend разработчик (в международный проект)",
+        "url": "https://spb.hh.ru/vacancy/89884680?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Reactive Phone",
+        "salary": "от 110 000 ₽ на руки",
+        "sity": "Санкт-Петербург"
+    },
+    {
+        "vacancy": "Python-разработчик / Junior Python Developer",
+        "url": "https://spb.hh.ru/vacancy/90204534?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Comexp",
+        "salary": "от 100 000 до 150 000 ₽ на руки",
+        "sity": "Москва"
+    },
+    {
+        "vacancy": "Junior-разработчик",
+        "url": "https://spb.hh.ru/vacancy/90002931?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "ООО Лидгид",
+        "salary": "Зарплата не указана",
+        "sity": "Санкт-Петербург"
+    },
+    {
+        "vacancy": "Backend Python Django Developer",
+        "url": "https://spb.hh.ru/vacancy/90578989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "company": "Fatality",
+        "salary": "от 40 000 до 90 000 ₽ на руки",
+        "sity": "Москва, Библиотека им.Ленина, Китай-город, Новокузнецкая, Площадь Революции"
+    }
+]

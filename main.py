@@ -53,7 +53,7 @@ def get_info_vacancy():
 
 if __name__ == '__main__':
     info_vacancy = get_info_vacancy()
-    with open('files/log.json', 'a', encoding='utf-8-sig') as file:
-        json.dump(info_vacancy, file, ensure_ascii=False)
+    with open('files/log.json', 'a', encoding='utf-8') as file:
+        json.dump(info_vacancy, file, ensure_ascii=False, indent=4)
 
     print("END")
