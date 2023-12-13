@@ -1,22 +1,12 @@
-# # -*- coding: utf-8 -*-
+# -*- coding: utf-8-sig -*-
 import json
 import re
 import requests, lxml
-from config import URL, headers_generator
+from config import URL, headers_generator, browser, browser_service, chrome_webdriver_path
 from bs4 import BeautifulSoup
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver import Chrome
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.ui import WebDriverWait
-from webdriver_manager.chrome import ChromeDriverManager
-
-chrome_webdriver_path = ChromeDriverManager().install()
-browser_service = Service(executable_path=chrome_webdriver_path)
-browser = Chrome(service=browser_service)
-# options = Options()
-# options.add_argument("--headless")
 
 
 def get_info_url(url):
